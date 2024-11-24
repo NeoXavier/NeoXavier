@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xavier</h1>
-<h3 align="center">A computer science student passionate about backend and data engineering</h3>
+<h3 align="center">Backend enthusiast learning to whisper to data and design systems that are as smooth as tau huay.</h3>
 
 - 🌱 I’m currently learning **AWS Cloud Development, Nix, Rust, Go**
 
